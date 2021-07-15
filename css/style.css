@@ -31,6 +31,9 @@ body {
 }
 .my-photo {
   width: 370px;
+  height: 370px;
+  border-radius: 50%;
+  object-fit: cover;
 }
 .about-me-container {
   padding-left: 90px;
