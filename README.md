@@ -70,7 +70,6 @@
     <li>
       <a
         target="blanc"
-        class="projects-linc"
         href="https://kotikm81.github.io/goit-markup-hw-final/"
         >Web Studio/</a
       >
@@ -83,7 +82,6 @@
     <li>
       <a
         target="blanc"
-        class="projects-linc"
         href="https://kotikm81.github.io/codehunters-team-proj/"
         >HellEN</a
       >
@@ -97,7 +95,6 @@
     <li>
       <a
         target="blanc"
-        class="projects-linc"
         href="https://kotikm81.github.io/ddt-js-project/index.html"
         >Filmoteka</a
       >
@@ -113,7 +110,6 @@
     <li>
       <a
         target="blanc"
-        class="projects-linc"
         href="https://ktm-goit-react-hw-05-movies.netlify.app/"
         >Filmoteka /react/</a
       >
