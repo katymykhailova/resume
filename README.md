@@ -98,7 +98,7 @@
         href="https://kotikm81.github.io/ddt-js-project/index.html"
         >Filmoteka</a
       >
-      <span class="dots"></span>.....................<span>
+      <span class="dots"></span>......................<span>
       <span
         ><b>[</b>
         <span class="tech-name"
