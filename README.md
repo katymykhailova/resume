@@ -14,16 +14,10 @@
       <span class="sidebar-text">JavaScript Es6+</span>
     </li>
     <li>
-      <span class="sidebar-text">React.js</span>
+      <span class="sidebar-text">React.js/React router/React hooks</span>
     </li>
     <li>
-      <span class="sidebar-text">React router</span>
-    </li>
-    <li>
-      <span class="sidebar-text">React hooks</span>
-    </li>
-    <li>
-      <span class="sidebar-text">Redux</span>
+      <span class="sidebar-text">Redux/Redux Toolkit/Async Redux</span>
     </li>
     <li>
       <span class="sidebar-text">WebPack</span>
@@ -32,14 +26,21 @@
       <span class="sidebar-text">Parcel</span>
     </li>
     <li>
+      <span class="sidebar-text">Handlebars</span>
+    </li>
+    <li>
       <span class="sidebar-text">REST API</span>
     </li>
     <li>
       <span class="sidebar-text">NPM </span>
     </li>
     <li>
+      <span class="sidebar-text">Formik/Yup/React Hook Form/Axios/Emotion/Material-UI/Bootstrap/others... </span>
+    </li>
+    <li>
       <span class="sidebar-text">Figma </span>
     </li>
+
   </ul>
 </div>
 <div class="sidebar-container">
@@ -123,5 +124,21 @@
         <b>]</b></span
       >
     </li>
+        <li>
+      <a
+        target="blanc"
+        href="https://ktm-phonebook.netlify.app/"
+        >Phonebook</a
+      >
+      <span class="dots">........</span>
+      <span
+        ><b>[</b>
+        <span class="tech-name"
+          > HTML5, CSS3, JavaScript, Axios, React.js, React router, React hooks, Redux, Redux Toolkit, Async Thunk, Material-UI, React Hook Form, Yup
+        </span>
+        <b>]</b></span
+      >
+    </li>
+
   </ol>
 </div>
